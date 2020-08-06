@@ -18,5 +18,8 @@ To Start Server:
 
 `npm start`  
 
-<h2>Screenshots- </h2><br>
-![Image](todo-ss.PNG)
+<h2>Screenshots- </h2>
+
+![ScreenShot](/todo-ss.PNG)
+
+
