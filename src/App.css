@@ -1,0 +1,66 @@
+  body{
+    background-color: #86109B;
+    font-size: 20px;
+  }
+
+  .logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  }
+
+  .input-text{
+    height:35px;
+    width: 320px;
+    margin-right: 20px;
+    margin-top: 30px;
+    border-radius: 10px;
+    border: none;
+    padding-left:6px;
+  }
+
+  .container{
+    
+    text-align: center;
+  }
+
+  .app-title{
+    margin-left:42%;
+  }
+
+  .btn-delete{
+    margin-left: 10px;
+    height:37px;
+    background-color:red;
+    color:white;
+    border:none;
+    border-radius: 7px;
+    float: right;
+  }
+
+  .add-btn{
+    height:40px;
+    background-color: green;
+    color: white;
+    width: 100px;
+    border:none;
+    border-radius: 6px;
+
+  }
+
+  .todos{
+    background-color:#ecf0f1;
+    list-style: none;
+    width: 500px;
+    height: 40px;
+    padding: 5px;
+    margin-left: 31%;
+    margin-bottom: 5px;
+    line-height:40px;
+    border:none;
+    border-radius: 5px;
+  }
+  .todo-name{
+    float: left;
+  }
