@@ -19,4 +19,4 @@ To Start Server:
 `npm start`  
 
 <h2>Screenshots- </h2><br>
-![Screenshot](https://github.com/Aditya20kul/React-Todo/blob/master/todo-ss.PNG)
+![Image](todo-ss.PNG)
